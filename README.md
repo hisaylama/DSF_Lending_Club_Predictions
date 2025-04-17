@@ -34,8 +34,7 @@ The project explores the potential for a real-time scoring application that rate
 
 To get started with this project:
 1. Clone the repository to your local machine.
-2. Ensure you have Jupyter Notebook installed to run `.ipynb` files.
-3. Follow the `Technical_Report.ipynb`
+2. Follow the `Technical_Report.ipynb`
 
 ## Usage
 
