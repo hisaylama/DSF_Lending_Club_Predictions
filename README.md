@@ -1,9 +1,12 @@
-# DSF Lending Club Predictions
+# DSF Lending Club 
 
+![dsif_header_1](https://github.com/user-attachments/assets/65aba106-7de7-4db7-a5b6-08148018392c)
+---
 This repository contains the development of predictive models for the Lending Club platform. The primary aim is to determine whether loan applications should be approved or rejected based on various financial indicators. 
 
 - Dataset source - [Lending club dataset](https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction#%E2%9C%94%EF%B8%8F-Artificial-Neural-Networks-(ANNs))
 - Report to use the repository - [Technical report](https://github.com/hisaylama/DSF_Lending_Club_Predictions/blob/main/Technical_Report.ipynb)
+
 **Note:** Headings in blue are clickable and link to notebook which has additional information.
   
 ## Repository Contents
@@ -34,7 +37,6 @@ To get started with this project:
 2. Ensure you have Jupyter Notebook installed to run `.ipynb` files.
 3. Follow the `Technical_Report.ipynb`
 
-
 ## Usage
 
 Each notebook is self-contained and includes comments explaining the purpose of each section of code. Follow the notebooks in the order they are listed to replicate the analysis and model development.
@@ -47,6 +49,7 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 - Thanks to all Elvtr and teams who have invested their efforts in develop this project
 
+**Note** This code will soon be integrated with a frontend for an improved user interface. Stay tuned for updates.
 
 
    
