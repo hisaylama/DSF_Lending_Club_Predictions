@@ -1,4 +1,4 @@
-# DSF Lending Club 
+# Data Science in Finance Final Project
 
 ![dsif_header_1](https://github.com/user-attachments/assets/65aba106-7de7-4db7-a5b6-08148018392c)
 ---
