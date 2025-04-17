@@ -39,10 +39,6 @@ Each notebook is self-contained and includes comments explaining the purpose of 
 
 Contributions to this project are welcome. Please fork the repository and submit pull requests with any enhancements, bug fixes, or improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to all Elvtr and teams who have invested their efforts in develop this project
