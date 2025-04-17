@@ -45,7 +45,7 @@ Each notebook is self-contained and includes comments explaining the purpose of 
 
 - Thanks to all Elvtr and teams who have invested their efforts in develop this project
 
-**Note** This code will soon be integrated with a frontend for an improved user interface. Stay tuned for updates.
+**Note** This code will soon be integrated with a front-end for an improved user interface. Stay tuned for updates.
 
 
    
