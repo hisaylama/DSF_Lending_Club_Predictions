@@ -1,12 +1,6 @@
 # DSF_Lending_Club_Predictions
 Makes the decision for lending club to approve of not reject the loan applications
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "254f7dc3",
-   "metadata": {},
-   "source": [
+
     "# Project Overview\n",
     "Lending Club is seeking a data science consultant to conduct thorough data preparation, exploratory data analysis (EDA), and predictive modeling on their loan application dataset. The project aims to deploy a real-time scoring application that will enhance decision-making processes. The primary goals are to:\n",
     "\n",
@@ -15,23 +9,7 @@ Makes the decision for lending club to approve of not reject the loan applicatio
     "3. Develop a predictive model to classify loan applicants and determine their eligibility.\n",
     "4. Implement a loan approval to aid immediate decision on loan\n",
     " \n",
-    "This initiative will enable Lending Club to make informed, data-driven decisions regarding loan approvals and improve operational efficiency."
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "3960c440",
-   "metadata": {},
-   "source": [
-    "## [Dataset Description](https://drive.google.com/drive/folders/1FprchXNqTJYgSx8sACcRz6mh1AZAdtrD?usp=sharing)\n",
-    "The dataset consists of loan application records stored in a CSV file at the following path: `data/1-raw/lendingclub-2007-2020Q3Loan_status_2007-2020Q3-100ksample.csv`. The dataset contains various attributes such as applicant information, loan details, financial metrics, and application status. A data dictionary is provided at the following path: `data/1-raw/ lending-club-2007-2020Q3/LCDataDictionary.xlsx`."
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "3c14edec-6e90-425b-9629-9362c1da14a5",
-   "metadata": {},
-   "source": [
+
     "**List of important variables**\n",
     "\n",
     "The dataset contains a total of 143 features, which is quite large for effective analysis. Including all of them may lead to **overfitting** and **increased computational costs** without significantly improving model performance. Based on our problem statement, we have selected 21 key features that are most relevant for performing Exploratory Data Analysis (EDA). These selected features offer valuable insights into patterns and trends that influence loan approval decisions. \n",
