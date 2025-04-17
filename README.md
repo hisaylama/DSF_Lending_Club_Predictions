@@ -1,4 +1,4 @@
-# Data Science in Finance Final Project
+# Final Project on Data Science in Finance 
 
 ![dsif_header_1](https://github.com/user-attachments/assets/65aba106-7de7-4db7-a5b6-08148018392c)
 ---
