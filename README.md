@@ -7,7 +7,7 @@ This repository contains the development of predictive models for the Lending Cl
 - Dataset source - [Lending club dataset](https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction#%E2%9C%94%EF%B8%8F-Artificial-Neural-Networks-(ANNs))
 - Report to use the repository - [Technical report](https://github.com/hisaylama/DSF_Lending_Club_Predictions/blob/main/Technical_Report.ipynb)
 
-**Note:** Headings in blue are clickable and link to notebook which has additional information.
+**Note:** Headings in blue are clickable, it links to a notebook which has additional information.
   
 ## Repository Contents
 
