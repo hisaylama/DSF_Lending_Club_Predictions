@@ -41,10 +41,6 @@ To get started with this project:
 
 Each notebook is self-contained and includes comments explaining the purpose of each section of code. Follow the notebooks in the order they are listed to replicate the analysis and model development.
 
-## Contributing
-
-Contributions to this project are welcome. Please fork the repository and submit pull requests with any enhancements, bug fixes, or improvements.
-
 ## Acknowledgments
 
 - Thanks to all Elvtr and teams who have invested their efforts in develop this project
