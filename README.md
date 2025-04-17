@@ -12,7 +12,7 @@ This repository contains the development of predictive models for the Lending Cl
 - `Model_deployment.ipynb`: Notebook demonstrating the deployment of the predictive model.
 - `Technical_Report.ipynb`: Comprehensive report detailing the methodologies, analyses, results, and conclusions of the predictive modeling process.
 - `baseline_model_2.pkl`: Serialized version of one of the baseline models used for initial predictions.
-- `ds6utility.py`: Utility functions used while running `Predictive_model.ipynb` .
+- `ds6utility.py`: `Python` function file is used while running `Predictive_model.ipynb` .
 
 ## Project Objective
 
