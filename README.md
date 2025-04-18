@@ -33,8 +33,9 @@ The project explores the potential for a real-time scoring application that rate
 ## Getting Started
 
 To get started with this project:
-1. Clone the repository to your local machine.
-2. Follow the `Technical_Report.ipynb`
+1. Clone the repository to your local machine or download all the files.
+2. Follow the [`Technical_Report.ipynb`]((https://github.com/hisaylama/DSF_Lending_Club_Predictions/blob/main/Technical_Report.ipynb)
+)
 
 ## Usage
 
