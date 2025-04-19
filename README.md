@@ -2,7 +2,7 @@
 
 ![dsif_header_1](https://github.com/user-attachments/assets/65aba106-7de7-4db7-a5b6-08148018392c)
 ---
-This repository contains the development of predictive models for the Lending Club platform. The primary aim is to determine whether loan applications should be approved or rejected based on various financial indicators. 
+This repository contains the development of predictive models for the Lending Club platform. The primary aim is to determine whether loan applications should be approved or rejected based on various financial indicators.  In this project we predict default likelihood for loan applicants and rate them with the score.
 
 - Dataset source - [Lending club dataset](https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction#%E2%9C%94%EF%B8%8F-Artificial-Neural-Networks-(ANNs))
 - Follow the technical report to use this repository - [Technical report](https://github.com/hisaylama/DSF_Lending_Club_Predictions/blob/main/Technical_Report.ipynb)
