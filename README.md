@@ -1,4 +1,4 @@
-# Final Project on Data Science in Finance 
+# Data-Driven Credit Risk Assessment Using Machine Learning: A LendingClub Case Study
 
 ![dsif_header_1](https://github.com/user-attachments/assets/65aba106-7de7-4db7-a5b6-08148018392c)
 ---
