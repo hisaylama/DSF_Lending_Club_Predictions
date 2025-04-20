@@ -29,7 +29,8 @@ The goal of this project is to enhance decision-making for loan approvals using 
     - Reduce operational costs by automating the decision-making process.
 
 ## Real-time Scoring Application
-The project explores the potential for a real-time scoring application that rates loan applicants as either 0 or 1. This score is determined by predictive models such as `Random Forest` and `XGBoost`, which classify applicants based on the likelihood of fulfilling loan repayment.
+The project investigates the development of a real-time scoring application that classifies loan applicants with a binary label—either 0 or 1—based on predictions from our machine learning model. 
+In addition to this classification, each applicant is assigned a score that reflects the probability of successful loan repayment.
 
 ## Getting Started
 
