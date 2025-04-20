@@ -44,7 +44,7 @@ Each notebook is self-contained and includes comments explaining the purpose of 
 
 ## Acknowledgments
 
-- Thanks to all Elvtr and teams who have invested their efforts in develop this project
+- Thanks to all Elvtr and teams who have invested their efforts in develop this learning program.
 
 **Note**: This code will soon be integrated with a front-end API for an improved user interface. 
 Stay tuned for updates.
