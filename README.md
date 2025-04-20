@@ -23,6 +23,7 @@ This repository contains the development of predictive models for the Lending Cl
 
 The goal of this project is to enhance decision-making for loan approvals using data-driven insights. By applying machine learning models, we aim to:
 - Deploy a real-time scoring model that can provide instant financial decisions - "Approve or reject loan application"
+  
 - Implications
     - Minimize the risk of default.
     - Reduce operational costs by automating the decision-making process.
