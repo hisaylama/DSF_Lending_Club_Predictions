@@ -42,7 +42,7 @@ To get started with this project:
 
 ## Usage
 
-Each notebook is self-contained and includes comments explaining the purpose of each section of code. Follow the notebooks in the order they are listed to replicate the analysis and model development.
+Each notebook is self-contained and includes comments explaining the purpose of each section of code. Follow the notebooks in the order they are listed to replicate the analysis, model development and predictive analysis.
 
 ## Acknowledgments
 
